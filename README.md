@@ -16,7 +16,7 @@ Tools Used:
 - GitHub
 
 Prototype:
-Paste your Figma prototype link here.
+https://www.figma.com/design/ycIuBrc6OTSRbyIR52lqP8/Interactive-Prototype-Creation?node-id=37-2&t=gvygB8x7Z1q8qAih-1
 
 Author:
 Shreyash Naik
